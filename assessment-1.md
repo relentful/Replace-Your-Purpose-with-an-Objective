@@ -1,6 +1,7 @@
 # Assessment 1 
 
-Choose 5 of the topics below. Rewrite them so they meet the criteria described in the rubric. 
+## Task
+Choose 2 of the topics below. Rewrite them so they meet the criteria described in the rubric. 
 
 * Understand AWS Lambdas
 * Use Docker for future features
