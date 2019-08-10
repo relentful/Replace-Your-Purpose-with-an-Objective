@@ -51,7 +51,7 @@ By the end of the week, complete at least 3 20 minute pairing sessions with the 
 
 
 ## Task
-Choose 3 of the topics below. Rewrite them so they meet the criteria described in the rubric. 
+Choose 2 of the topics below. Rewrite them so they meet the criteria described in the rubric. 
 
 * Understand AWS Lambdas
 * Use Docker for future features
