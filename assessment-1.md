@@ -3,7 +3,10 @@
 ## Exemplar Response 
 | Before  |After   |
 |---|---|
-| Learn about accessibility | By the end of the day on Wednesday, January 30: 1. Evaluate the landing and payments page using an automated accessibility audit tool 2. Create a list of accessibility improvements that need to be made to the landing page and payments page|
+| Learn about accessibility | By the end of the day on Wednesday, January 30: 
+
+1. Evaluate the landing and payments page using an automated accessibility audit tool 
+2. Create a list of accessibility improvements that need to be made to the landing page and payments page|
 |   slkjd|   |
 |   |   |
 
